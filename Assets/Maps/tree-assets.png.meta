@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 8e808fccbfa9e40a1a4efa69a98ebbe2
+timeCreated: 1496246564
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trees_0000_branches and leaves
+    21300002: trees_0001_branches
+    21300004: trees_0002_right-trunk
+    21300006: trees_0003_left-trunk
+    21300008: trees_0000_Layer-3
+    21300010: trees_0001_Layer-4
+    21300012: trees_0002_Layer-5
+    21300014: trees_0003_Layer-6
+    21300016: trees_0004_big-branch
+    21300018: trees_0005_skinny-branch-1
+    21300020: trees_0006_curly-branch-1
+    21300022: trees_0007_Layer-1
+    21300024: trees_0008_Layer-2
+    21300026: trees_0009_branches
+    21300028: trees_0010_Layer-7
+    21300030: trees_0011_line
+    21300032: trees_0012_Layer-8
+    21300034: trees_0013_Layer-9
+    21300036: trees_0014_right-trunk
+    21300038: trees_0015_Layer-10
+    21300040: trees_0016_Layer-11
+    21300042: trees_0017_Layer-12
+    21300044: trees_0018_Layer-13
+    21300046: trees_0019_Layer-16
+    21300048: trees_0020_Layer-18
+    21300050: trees_0021_Layer-20
+    21300052: trees_0022_Layer-19
+    21300054: trees_0023_Layer-17
+    21300056: trees_0024_Layer-15
+    21300058: trees_0025_Layer-14
+    21300060: trees_0026_left-trunk
+    21300062: _0000s_0000_branch1
+    21300064: _0000s_0001_branch2
+    21300066: _0000s_0002_branch3
+    21300068: _0000s_0003_branch4
+    21300070: _0000s_0004_branch5
+    21300072: _0000s_0005_branch6
+    21300074: _0000s_0006_branch7
+    21300076: _0000s_0011_branch12
+    21300078: _0000s_0012_branch13
+    21300080: branch1
+    21300082: branch2
+    21300084: branch3
+    21300086: branch4
+    21300088: branch5
+    21300090: branch6
+    21300092: branch7
+    21300094: branch8
+    21300096: branch9
+    21300098: branch10
+    21300100: branch12
+    21300102: branch13
+    21300104: tree hole
+    21300106: root1
+    21300108: root2
+    21300110: ground1
+    21300112: hill1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: branch1
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3383
+        width: 689
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch2
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2765
+        width: 493
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 226
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch4
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3564
+        width: 951
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch5
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2344
+        width: 206
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch6
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2607
+        width: 349
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2402
+        width: 513
+        height: 844
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch8
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1725
+        width: 193
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch9
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3011
+        width: 678
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch10
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1925
+        width: 375
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3255
+        width: 683
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: branch13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2359
+        width: 371
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ground1
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3727
+        width: 1000
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hill1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3248
+        width: 1000
+        height: 847
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: root1
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 3089
+        width: 350
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: root2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2836
+        width: 443
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tree hole
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1822
+        width: 284
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0000_Layer-3
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3478
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0001_Layer-4
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3593
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0002_Layer-5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2305
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0014_right-trunk
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 820
+        width: 278
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0021_Layer-20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1400
+        width: 332
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0022_Layer-19
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1763
+        width: 304
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0023_Layer-17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 245
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0024_Layer-15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 820
+        width: 271
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0025_Layer-14
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1763
+        width: 246
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: trees_0026_left-trunk
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 923
+        width: 294
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
